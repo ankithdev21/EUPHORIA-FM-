@@ -1,0 +1,20 @@
+h1{
+    color: #0066cc;
+    font-family: "Lucida Handwriting";
+    font-size: 80px;
+    text-align: center;
+    text-shadow: 2px 2px #000000;
+
+}
+.header{
+    font-size: 24px;
+    font-weight: bold;
+    color: #07072b;
+    text-align: center;
+  }
+
+p{
+    font-size: 18px;
+    font-weight: bold;
+    color: #07072b;
+  }
